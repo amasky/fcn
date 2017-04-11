@@ -14,4 +14,4 @@
 
 
 ## Dependencies
-Python (2 or 3), Chainer, jupyter, matplotlib, opencv, tqdm  
+Python (2 or 3), Chainer, jupyter, matplotlib, scikit-image, opencv, tqdm, pycocotools (MS COCO API)  
