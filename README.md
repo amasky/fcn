@@ -7,7 +7,7 @@
 * [nbviewer.jupyter.org/github/amasky/fcn/blob/master/infer.ipynb](http://nbviewer.jupyter.org/github/amasky/fcn/blob/master/infer.ipynb)  
 
 
-## Examples  
+## Example  
 
 * Inference of FCN-8s trained on MS COCO dataset   
 ![from left to right: test image, ground-truth, and inference](examples/coco_val_520_epoch3.png)
